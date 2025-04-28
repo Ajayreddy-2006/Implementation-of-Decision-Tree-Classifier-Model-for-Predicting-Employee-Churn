@@ -91,8 +91,8 @@ accuracy
 ![image](https://github.com/user-attachments/assets/59513da9-cebe-4fab-82dd-b201a2bd2cf4)
 ```
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
-print("Sabeeha Shaik")
-print(212223230176)
+print("T Ajay")
+print(212223230007)
 ```
 
 ![image](https://github.com/user-attachments/assets/381050b5-2abf-4689-9292-3561391bd182)
